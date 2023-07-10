@@ -124,8 +124,7 @@ body {
 
 .imagemperfil {
     width: 400px;
-    border: 6px double var(--cor-terciaria);
-    border-radius: 6px;
+    
 }
 
 .apresentacao__conteudo__texto__textos {
