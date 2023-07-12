@@ -151,7 +151,8 @@ body {
     }
 
     .cabecalho__menu{
-        justify-content: center;
+        justify-content: space-around;
+        gap: 40px;
     }
 
     .apresentacao {
